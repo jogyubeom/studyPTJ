@@ -1,7 +1,2 @@
-# 자기소개
-
-- 이름 : 조규범
-- 전공 : 국사학과
-- 취미 : 노래방
-- mbti : isfj
-- SSAFY 11th 파이썬반, 대전 1반
+# Flutter를 학습하는 공간
+with NomadCoder
